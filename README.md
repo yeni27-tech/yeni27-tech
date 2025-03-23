@@ -12,14 +12,14 @@ I'm **Yeni Faturohmah**, a passionate developer who loves exploring new technolo
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="100" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeni27-tech&theme=radical&hide_border=false" height="100">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="100">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeni27-tech&theme=radical&hide_border=false" height="120">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="120">
 </div>
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HKg5X-eSAKRkyPmXNOGDSQ.gif"  />
+<img align="right" height="150" src="./1_HKg5X-eSAKRkyPmXNOGDSQ.gif"  />
 
 ### 🔧 Technologies Used 
 
