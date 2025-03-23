@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "devDependencies": {
     "park-miller": "1.1.0"
+  },
+  "dependencies": {
+    "@snk/solver": "file:"
   }
 }
