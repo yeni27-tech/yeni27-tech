@@ -12,7 +12,7 @@ I'm **Yeni Faturohmah**, a passionate developer who loves exploring new technolo
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="120" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="120" alt="languages graph"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeni27-tech&theme=radical&hide_border=false" height="120">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="120">
 </div>
