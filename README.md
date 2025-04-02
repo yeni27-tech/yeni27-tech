@@ -14,11 +14,12 @@ I'm **Yeni Faturohmah**, a passionate developer who loves exploring new technolo
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="languages graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="150">
+  <img align="right" height="150" src="./1_HKg5X-eSAKRkyPmXNOGDSQ.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="./1_HKg5X-eSAKRkyPmXNOGDSQ.gif"  />
+
 
 ### 🔧 Technologies Used 
 
