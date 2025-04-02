@@ -12,9 +12,8 @@ I'm **Yeni Faturohmah**, a passionate developer who loves exploring new technolo
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="120" alt="languages graph"  /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeni27-tech&theme=radical&hide_border=false" height="120">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="120">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeni27-tech&theme=radical&show_icons=true&hide_border=false&layout=compact" height="150">
 </div>
 
 ###
@@ -35,10 +34,6 @@ I'm **Yeni Faturohmah**, a passionate developer who loves exploring new technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
